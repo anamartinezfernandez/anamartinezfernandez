@@ -1,5 +1,3 @@
-<br>
-
 <h2> Hi, I'm Ana Martínez! 
 <img align='right' src="https://media4.giphy.com/media/Z9WRoncIw8RYBLJ0FB/giphy.gif?cid=ecf05e470spyfpe37vih5r7eweny5gezac651xw1g65p7fau&rid=giphy.gif" width="230">
 <p><em>Developer front-end in progress </br>Student at <a href="https://adalab.es/">Adalab</a>
@@ -8,8 +6,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/anamartinezfernandez)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anamartinezf6@gmail.com)
-
-
 
 <!-- 
 
@@ -33,14 +29,15 @@ const ana = {
 <br>
 
 
-**<h2 align = "center">Languages and Tools:</h2>**
+**<h2 align = "left">Languages and Tools:</h2>**
+
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
 
 
-<p align = "center">  
+<p align = "left">  
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
